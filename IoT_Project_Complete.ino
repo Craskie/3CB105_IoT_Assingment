@@ -1,4 +1,5 @@
 
+#include<SPI.h>
 #include <WiFiNINA.h>
 #include <ThingSpeak.h>
 #include <LiquidCrystal.h>
